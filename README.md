@@ -9,6 +9,9 @@
 ## QrF.FaceRecognition.API
 基于.net framework 的图像处理项目
 
+## QrF.FaceRecForCamera
+视频人脸识别
+
 ### api/imgs/resizeimg 改变图片分辨率
 
 ### api/faces/detection 人脸识别
